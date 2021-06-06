@@ -1,0 +1,161 @@
+body{
+    font-family: 'Work Sans', sans-serif;
+}
+h1,h2,h3,h4,h5,h6,a,p,span{
+    font-family: 'Work Sans', sans-serif;
+}
+a{
+    text-decoration: none;
+}
+img{
+    max-width: 100%;
+}
+/* navbar-nav section */
+
+.navbar-nav ul{
+   
+}
+
+.navbar-nav li{
+
+}
+
+.navbar-nav li a{
+    font-size: 22px;
+}
+
+.navbar-brand img{
+    padding: 12px;
+    height: 70px;
+    width: auto;
+    margin-left: 80px;
+}
+.jon-menu .nav-link {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+}
+.jon-menu{
+    margin-right: 70px;
+}
+
+
+/* about-section */
+.about-butoon a{
+    background: #8490ff;
+    border: none;
+}
+.about-me-button a{
+    background: #8490ff;
+    border: none;
+}
+.about-text{
+    margin-top: 190px;
+}
+.about-section{
+    background: #f9f9ff;
+}
+.about-img img{
+    
+}
+.about-text p{
+    font-size: 17px;
+    font-weight: 400;
+    
+}
+/* about-me-text */
+
+.about-me-text{
+    margin-left: -70px;
+}
+
+.about-me-text h4{
+
+}
+.about-me-text h1{
+    font-size: 51px;
+}
+.about-me-text p{
+    font-weight: 400;
+    font-size: 19px;
+}
+.about-me-text a{
+
+}
+
+/* view secton */
+
+
+.view{
+    background-color: #8490ff;
+    padding: 40px;
+}
+
+
+/* economy */
+
+
+.round{
+    height: 85px;
+    width: 85px;
+    border-radius: 50%;
+    background-color: #f9f9ff;
+    text-align: center;
+    margin: 10px auto;
+
+}
+.round h1{
+    padding-top: 15px;
+}
+.btn-end a {
+    border: 2px solid #8490ff !important;
+    height: 52px;
+    width: 142px;
+    text-align: center;
+}
+.end {
+     
+    position: relative;
+    top: 5px;
+    color: #8490ff;
+}
+.economi{
+    background-color: #f9f9ff;
+}
+.aa{
+    background-color: #ffffff;
+}
+
+
+/* jason doe */
+
+.face {
+    width: 100px;
+    /* margin-bottom: -37px; */
+    margin-top: -55px;
+    position: relative;
+    right: 55px;
+}
+.jason-doe{
+    margin-top: 130px;
+}
+
+
+/* contact */
+
+.contact{
+    background-color: #f9f9ff;
+}
+.item{
+    margin-top: 50px;
+    margin-left: 10px;
+}
+
+
+.footer{
+    background-color: #04091e;
+}
+.footer p {
+    position: relative;
+    bottom: -7px;
+    font-size: 20px;
+}
